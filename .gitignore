@@ -1,0 +1,8 @@
+# dataset (1.4 GB, download from Dryad, see README)
+data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
